@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `clipinclout.ETH`,
+    title: `m00npapi.ETH`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@clipinclout.eth`,
-    siteUrl: `https://clipinclout.eth`,
+    author: `@m00npapi.eth`,
+    siteUrl: `https://m00npapi.eth`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
