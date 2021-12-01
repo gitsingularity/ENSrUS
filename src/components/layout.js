@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main><iframe src='https://opensea.io/0x30c7f4f7504d6366916f669cd8e731ed4df6c702?embed=true'
+        <main><iframe src='https://opensea.io/_Carrie?embed=true'
         width='100%'
         height='1400px'
         frameborder='0'
