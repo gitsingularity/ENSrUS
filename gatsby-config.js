@@ -3,7 +3,7 @@ module.exports = {
     title: `clipinclout.ETH`,
     description: `clipinclout.eth`,
     author: `@clipinclout.eth`,
-    siteUrl: `https://clipinclout.eth`,
+    siteUrl: `https://clipinclout.eth.limo`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
